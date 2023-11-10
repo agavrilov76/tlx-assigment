@@ -1,10 +1,10 @@
 # Programming assignment
 
-You can use any programming language
+You can use any programming language and any third-party library.
 
 ## Word counter
 
-Write a program which counts how many times a word occurs in the text from [this URL](https://www.gutenberg.org/cache/epub/1184/pg1184.txt). Make the program to print top 5 most and 5 least popular.
+Write a program which counts how many times a word occurs in the text from [this URL](https://www.gutenberg.org/cache/epub/1184/pg1184.txt). Make the program to print top 5 most and 5 least popular words.
 
 
 ## JSON processor
